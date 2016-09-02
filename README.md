@@ -1,2 +1,2 @@
 # rtsp
-rtsp deom
+rtsp demo
